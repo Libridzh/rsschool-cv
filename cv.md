@@ -9,11 +9,6 @@
 ## Summary
 An analytical and results-driven IT professional with over 18 years of experience in system support, data analysis, and PL/SQL development within large industrial enterprises. I am passionate about transitioning into modern software development, combining my strong background in databases and business logic with new technologies. I am highly motivated to learn, adapt quickly to new stacks, and deliver clean, efficient code. My priority is to find a remote position where I can leverage my analytical skills and grow as a developer.
 
-## Hard Skills
-- **Databases:** Oracle PL/SQL (Advanced), SQL, MySQL, Oracle Database Administration
-- **Languages:** Delphi, HTML/CSS (Basic), currently expanding to modern stacks
-- **Tools & Methodologies:** Software Testing, Technical Support, Data Analysis, Requirements Gathering
-
 ## Work Experience
 
 **TOO "Bogatyr Komir"** (Major Coal Mining Company)  
@@ -23,6 +18,14 @@ An analytical and results-driven IT professional with over 18 years of experienc
 - Developing and refining internal desktop applications using Delphi.
 - Analyzing data to identify patterns and preparing technical specifications for new features.
 - Testing system updates and ensuring data integrity.
+
+**City Library**  
+*Web Developer* | January 2018 – March 2020
+- Developed and maintained the library's website and digital services.
+- Implemented responsive web designs for improved user experience across devices.
+- Created online catalog systems and digital resource management tools.
+- Provided technical support for library staff and visitors using digital services.
+- Collaborated with librarians to digitize and automate manual processes.
 
 **JSC "Pavlodarenergo"**   
 *Software Engineer* | August 2007 – January 2016 
