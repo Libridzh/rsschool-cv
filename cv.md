@@ -33,6 +33,27 @@ An analytical and results-driven IT professional with over 18 years of experienc
 - Installing, configuring, and diagnosing PCs and peripherals.
 - Maintaining technical documentation.
 
+## Education
+
+**Ekibastuz Engineering and Technical Institute named after Academician K. Satpayev (EITI)**  
+*Information Systems in Engineering* | 2002 – 2007
+- **Qualification:** Engineer-System Technician
+- **Degree:** Bachelor's Degree with Honors (Diploma with Distinction)
+
+## Additional Courses & Training
+- *In progress:* Modern Web Development / JavaScript (Self-study)
+- *In progress:* Git & Version Control Fundamentals
+
+## English Proficiency
+- **Level:** Intermediate (B1)
+- **Experience:** I regularly read technical documentation and articles in English. 
+
+## Personal Qualities
+- Strong analytical thinking and attention to detail.
+- Ability to multitask and solve complex problems efficiently.
+- Quick learner, adaptable to new technologies and methodologies.
+- Responsible, communicative, and team-oriented.
+
 ## Additional Information
 - **Relocation / Work Mode:** I am primarily interested in remote work opportunities within the Russian Federation.
 - **Goal:** I am eager to apply my extensive background in business logic and data management to full-cycle software development, bringing reliability and precision to every project.
