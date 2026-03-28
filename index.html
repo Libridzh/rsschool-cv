@@ -56,25 +56,25 @@
             </section>
 
             <section id="code-example">
-                    <h2>Code Example</h2>
-                    <p><strong>PL/SQL Procedure to Get Employee Salary</strong></p>
-                    <pre><code>CREATE OR REPLACE PROCEDURE get_employee_salary (
-                                p_emp_id IN NUMBER,
-                                p_salary OUT NUMBER
-                                ) IS
-                            BEGIN
-                                SELECT salary INTO p_salary
-                                FROM employees
-                                WHERE employee_id = p_emp_id;
+                <h2>Code Example</h2>
+                <p><strong>PL/SQL Procedure to Get Employee Salary</strong></p>
+                <pre><code>CREATE OR REPLACE PROCEDURE get_employee_salary (
+    p_emp_id IN NUMBER,
+    p_salary OUT NUMBER
+) IS
+BEGIN
+    SELECT salary INTO p_salary
+    FROM employees
+    WHERE employee_id = p_emp_id;
     
-                                IF p_salary IS NULL THEN
-                                    p_salary := 0;
-                                END IF;
+    IF p_salary IS NULL THEN
+        p_salary := 0;
+    END IF;
     
-                            EXCEPTION
-                            WHEN NO_DATA_FOUND THEN
-                                    p_salary := 0;
-                            END get_employee_salary;</code></pre>
+EXCEPTION
+    WHEN NO_DATA_FOUND THEN
+        p_salary := 0;
+END get_employee_salary;</code></pre>
             </section>
 
             <section id="projects">
